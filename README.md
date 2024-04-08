@@ -5,7 +5,7 @@ Insider trading undermines the integrity and orderliness of financial markets. I
 
 ## Environment
 
-please install correct version of torch in your environment.
+please install correct version of [torch](https://pytorch.org/) in your environment.
 
 Then, run the
 
