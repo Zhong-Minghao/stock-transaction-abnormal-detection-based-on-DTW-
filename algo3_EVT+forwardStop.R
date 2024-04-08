@@ -2,7 +2,7 @@ library(eva)
 library(xlsx)
 
 # 设置初始目录
-setwd("D:/0主线任务/第8学期/dfs")
+setwd("D:/dfs")
 
 data = read.csv("train+002369.csv",header=TRUE)
 vec = as.vector(t(data))
